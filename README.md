@@ -3,7 +3,7 @@ In this intensive Fullstack Application Workshop, you will learn how to build a 
 
 > ## **Note:** If the Prerequisite are not complete, please do not attend the workshop
 
-## Prerequisit
+## Prerequisite
 
 ### Prerequisite from **Workshop1** are required
    1. Ubuntu 22.04 LTS Linux machine
